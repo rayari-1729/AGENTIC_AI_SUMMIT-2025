@@ -1,0 +1,442 @@
+{
+  "canteen_cashbox_theft": {
+    "culprit": "Neeraj the Volunteer",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Nisha"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Imran the Vendor"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Neeraj the Volunteer"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Pooja the Treasurer"
+        }
+      },
+      {
+        "action": "review_traffic_cctv",
+        "args": {
+          "location": "Parking B",
+          "timeframe": "20:10-20:20"
+        }
+      },
+      {
+        "action": "check_vehicle_registration",
+        "args": {
+          "vehicle_number": "GJ05 XY 7788"
+        }
+      },
+      {
+        "action": "interrogate_suspect_3rd_degree",
+        "args": {
+          "suspect_name": "Imran the Vendor"
+        }
+      },
+      {
+        "action": "interrogate_suspect_3rd_degree",
+        "args": {
+          "suspect_name": "Neeraj the Volunteer"
+        }
+      }
+    ]
+  },
+  "lab_microscope_theft": {
+    "culprit": "Karthik the Research Assistant",
+    "steps": [
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Karthik the Research Assistant"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Lila the PhD Scholar"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Om the Lab Attendant"
+        }
+      }
+    ]
+  },
+  "missing_ganesh_idol": {
+    "culprit": "Anil the Security Guard",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Ram"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Anil the Security Guard"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Raju the Sculptor"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Vikram the Local Shopkeeper"
+        }
+      }
+    ]
+  },
+  "theft_at_saree_shop": {
+    "culprit": "Karan the Delivery Boy",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Lakshmi"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Karan the Delivery Boy"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Mukesh the Night Watchman"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Sunil the Tailor"
+        }
+      },
+      {
+        "action": "review_traffic_cctv",
+        "args": {
+          "location": "Shastri Nagar",
+          "timeframe": "23:15-23:30"
+        }
+      },
+      {
+        "action": "interrogate_suspect_3rd_degree",
+        "args": {
+          "suspect_name": "Karan the Delivery Boy"
+        }
+      }
+    ]
+  },
+  "missing_jewelry_box": {
+    "culprit": "Vivek the Gardener",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Seema"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Ajay the Electrician"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Ramesh the Neighbor"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Vivek the Gardener"
+        }
+      },
+      {
+        "action": "analyze_fingerprints",
+        "args": {
+          "object": "jewelry_box_sample"
+        }
+      },
+      {
+        "action": "interrogate_suspect_3rd_degree",
+        "args": {
+          "suspect_name": "Vivek the Gardener"
+        }
+      }
+    ]
+  },
+  "missing_cricket_bat": {
+    "culprit": "Vijay the Batter",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Ajit"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Anand the Coach"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Rahul the Ground Staff"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Vijay the Batter"
+        }
+      }
+    ]
+  },
+  "library_book_theft": {
+    "culprit": "Deepak the Librarian Assistant",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Meera"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Deepak the Librarian Assistant"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Priya the Student"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Sunita the Researcher"
+        }
+      },
+      {
+        "action": "review_traffic_cctv",
+        "args": {
+          "location": "Delhi Public Library Exit",
+          "timeframe": "18:00-18:15"
+        }
+      },
+      {
+        "action": "interrogate_suspect_3rd_degree",
+        "args": {
+          "suspect_name": "Deepak the Librarian Assistant"
+        }
+      }
+    ]
+  },
+  "exam_paper_leak": {
+    "culprit": "Clerk Rajesh",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Clerk Rajesh"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Anil the Typist"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Clerk Rajesh"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Priya the Clerk"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Sneha the Messenger"
+        }
+      }
+    ]
+  },
+  "temple_donation_box_theft": {
+    "culprit": "Mani the Pilgrim",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Priest Ranganathan"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Gopal the Priest Assistant"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Lakshmi the Cleaner"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Mani the Pilgrim"
+        }
+      }
+    ]
+  },
+  "red_fort_painting_heist": {
+    "culprit": "Rekha the Curator",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Arjun"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Nikhil the Historian"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Rekha the Curator"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Suresh the Night Guard"
+        }
+      }
+    ]
+  },
+  "disappearance_of_tiffin": {
+    "culprit": "Chotu the Dog Walker",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Mehul"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Bhavesh the Street Vendor"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Chotu the Dog Walker"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Raju the Delivery Boy"
+        }
+      }
+    ]
+  },
+  "canteen_snack_theft": {
+    "culprit": "Raghu the Fresher",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Cashier Smita"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Arjun the NCC Cadet"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Raghu the Fresher"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Smita the Cashier"
+        }
+      }
+    ]
+  },
+  "canteen_wallet_case": {
+    "culprit": "Salim the Vendor",
+    "steps": [
+      {
+        "action": "interview_witness",
+        "args": {
+          "witness_name": "Friend"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Pankaj the Basketballer"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Salim the Vendor"
+        }
+      },
+      {
+        "action": "interrogate_suspect",
+        "args": {
+          "suspect_name": "Tara the Senior"
+        }
+      }
+    ]
+  }
+}

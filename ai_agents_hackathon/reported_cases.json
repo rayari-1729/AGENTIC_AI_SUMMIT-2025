@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "cases": {
+    "easy": [
+      {
+        "case_id": "canteen_cashbox_theft",
+        "description": "During a college fest, the canteen cashbox goes missing after closing time.",
+        "initial_clue": "Guard Nisha saw someone in a red hoodie running toward Parking B around 20:15."
+      },
+      {
+        "case_id": "lab_microscope_theft",
+        "description": "A high-end microscope disappears from Lab 203 after hours.",
+        "initial_clue": "Security email shows an after-hours door swipe at 22:12."
+      },
+      {
+        "case_id": "missing_ganesh_idol",
+        "description": "The sacred Ganesh idol is stolen from a Mumbai temple shrine overnight.",
+        "initial_clue": "Witness Chaiwala Ram saw a white Maruti Swift speeding away at midnight."
+      },
+      {
+        "case_id": "theft_at_saree_shop",
+        "description": "A saree boutique is broken into at night; priceless silk sarees go missing.",
+        "initial_clue": "Fruit seller Lakshmi heard glass shatter and saw a uniformed figure dash away."
+      },
+      {
+        "case_id": "missing_jewelry_box",
+        "description": "A family's heirloom jewelry box disappears from their Pune bungalow.",
+        "initial_clue": "Housemaid Seema saw footprints leading from the garden to the servant quarters."
+      },
+      {
+        "case_id": "missing_cricket_bat",
+        "description": "A signed cricket bat disappears from the Wankhede locker room after a night match.",
+        "initial_clue": "Security guard Ajit saw a man in a VIP jersey slip into the locker area."
+      },
+      {
+        "case_id": "library_book_theft",
+        "description": "A rare manuscript is stolen from the Delhi Public Library's restricted section.",
+        "initial_clue": "Librarian Meera noticed the manuscript missing during morning inventory."
+      },
+      {
+        "case_id": "exam_paper_leak",
+        "description": "Confidential board exam papers are leaked from the education office.",
+        "initial_clue": "Clerk Rajesh found torn paper bits near the copier."
+      },
+      {
+        "case_id": "temple_donation_box_theft",
+        "description": "Coins vanish from a locked donation box at a Chennai temple during the festival.",
+        "initial_clue": "Priest Ranganathan found the box unlocked with mud smudges around."
+      },
+      {
+        "case_id": "red_fort_painting_heist",
+        "description": "An antique Mughal-era painting is stolen from a special exhibit at the Red Fort.",
+        "initial_clue": "Security guard Arjun heard a glass case click open at 3 AM."
+      },
+      {
+        "case_id": "disappearance_of_tiffin",
+        "description": "A delivery person's signature tiffin is reported missing in a busy neighborhood.",
+        "initial_clue": "Shopkeeper Mehul saw a stray dog dragging a tiffin outside the shop."
+      },
+      {
+        "case_id": "canteen_snack_theft",
+        "description": "Packets of chips vanish from the college canteen counter during the lunch rush.",
+        "initial_clue": "Cashier notes someone with an oversized backpack loitering by the display."
+      },
+      {
+        "case_id": "canteen_wallet_case",
+        "description": "A wallet is reported missing from a canteen bench.",
+        "initial_clue": "Friend noticed someone leaving the bench in a hurry after lunch."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+FIELD_ALIAS_CATEGORY={'witness_name':'people','suspect_name':'people','party_name':'people','location':'locations','facility_or_room':'locations','area':'locations','checkpoint':'locations','vehicle_number':'vehicles','vehicle_or_plate':'vehicles','platform':'platforms'}
